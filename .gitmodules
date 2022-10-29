@@ -3,7 +3,4 @@
 	path = theme/blist
 	url = https://github.com/apvarun/blist-hugo-theme.git 
 	branch = main
-[submodule "public"]
-	path = blog/public
-	url = https://github.com/BigRig76/bigrig76.github.io.git
-	branch = main
+
