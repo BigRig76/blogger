@@ -63,7 +63,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "Please look for me elsewhere."
   instagram = "https://instagram.com/adammcaree"
   linkedin = "https://linkedin.com/in/adammcaree"
   github = "https://github.com/bigrig76"
