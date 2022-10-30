@@ -14,11 +14,12 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "This is Adam(aka Big Rig)'s Contact Site"
       introSubtitle = "You can link to my social media and read my posts here."
-      introPhoto = "Adam_2022.png"
+      introPhoto = "Adam_2022.jpg"
       logo = "BigRigLogo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
+        thumbnail = "true"
         weight = 1
 
     [[languages.en.menu.main]]
