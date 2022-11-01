@@ -1,7 +1,7 @@
 ---
 author: Adam McAree
 title: About Me
-date: 31-10-2022
+date: 2022-10-31       
 description:
 keywords: ["about-us", "contact"]
 type: about
